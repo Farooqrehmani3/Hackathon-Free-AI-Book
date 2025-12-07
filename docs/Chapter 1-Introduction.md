@@ -1,0 +1,13 @@
+**Meta Description:** Discover the foundations of Physical AI and embodied intelligence, exploring how AI systems transition from digital environments to physical robots that understand and interact with the real world through sensors and actuators.
+
+**From Digital AI to Physical Reality**
+Physical AI represents a fundamental shift in artificial intelligence—moving beyond screen-based interactions to robots that comprehend physical laws like gravity, friction, and momentum. Unlike traditional AI confined to digital spaces, Physical AI systems must process real-time sensor data, make decisions under uncertainty, and execute actions that affect the physical world. Humanoid robots exemplify this transition, as they're designed to navigate human-centered environments using our same physical form factor.
+
+**The Embodied Intelligence Paradigm**
+Embodied intelligence means the AI's "brain" is inseparable from its physical "body." Sensors become eyes and ears, motors become muscles, and the robot's form determines what tasks it can accomplish. Students must understand that a humanoid robot trained with abundant human interaction data can excel in our world precisely because it shares our morphology. This creates a rich learning environment where students see immediate consequences of their algorithms in physical space.
+
+**The Sensor Ecosystem**
+Modern humanoid robots perceive their environment through multiple sensor modalities working in concert. LiDAR provides precise distance measurements for mapping and obstacle avoidance. Depth cameras like the Intel RealSense capture both color and 3D structure. IMUs (Inertial Measurement Units) track orientation and acceleration, essential for balance. Force and torque sensors enable compliant interaction with objects and people. Teaching students to fuse these diverse data streams into coherent world models forms the foundation of Physical AI education.
+
+**The Humanoid Robotics Landscape**
+The field has evolved rapidly from research prototypes to commercially available platforms. Students should understand the current ecosystem: Unitree's G1 humanoid offers dynamic walking with open SDK access, while more affordable options like table-top humanoids provide kinematics learning opportunities. Even quadrupeds like the Unitree Go2 serve as effective proxies for teaching ROS 2, SLAM, and autonomous navigation principles that transfer directly to bipedal platforms.
