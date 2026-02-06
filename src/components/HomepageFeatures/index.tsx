@@ -10,12 +10,12 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Easy Learning with AI-Chatbot',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Our website chatbot makes learning from the eBook simple and interactive, instantly guiding users to specific topics and key sections within seconds for faster, clearer understanding.
+
       </>
     ),
   },
@@ -24,18 +24,20 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Focus on what matters by eliminating distractions and directing your time and energy toward high-impact goals, meaningful work, and continuous learning that drives real progress and long-term results.
+
+        
+        
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Powered by AI',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Powered by AI, this platform delivers smart insights, faster decisions, and efficient solutions for modern learning and innovation.
+
       </>
     ),
   },
